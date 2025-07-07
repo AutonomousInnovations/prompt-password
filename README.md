@@ -64,5 +64,5 @@ We are actively working on the first reference implementation. In the meantime:
 PromptPassword is and will be licensed under the [MIT License](LICENSE). We are committed to ensuring it remains a free, open-source tool for the benefit of the entire digital community.
 
 ---
-**Created by [Your Name/Handle] @ [Autonomous Innovations](https://www.autonomousinnovations.co)**
+**Innovated by Autonomous Innovations @ [Autonomous Innovations](https://www.autonomousinnovations.co)**
 *The future of identity is not what you remember, but how you create.*
